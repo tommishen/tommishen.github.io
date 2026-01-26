@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tommishen.github.io/</id>
+    <title>Gridea</title>
+    <updated>2026-01-26T07:43:27.998Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tommishen.github.io/"/>
+    <link rel="self" href="https://tommishen.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://tommishen.github.io/images/avatar.png</logo>
+    <icon>https://tommishen.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[技术博客：Android Studio 各系统安装原生安卓系统]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-bo-ke-android-studio-ge-xi-tong-an-zhuang-yuan-sheng-an-zhuo-xi-tong/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-bo-ke-android-studio-ge-xi-tong-an-zhuang-yuan-sheng-an-zhuo-xi-tong/">
+        </link>
+        <updated>2026-01-25T03:39:26.000Z</updated>
+        <content type="html"><![CDATA[<p>🏅🏅🏅https://youtu.be/qc_hqQVw4pM?si=u-FRuTdcebKADPTE<br>
+download:https://developer.android.com/studio</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术博客：HP笔记本windows11系统无法访问内网地址或路由器管理地址]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-bo-ke-hp-bi-ji-ben-windows11-xi-tong-wu-fa-fang-wen-nei-wang-di-zhi-huo-lu-you-qi-guan-li-di-zhi/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-bo-ke-hp-bi-ji-ben-windows11-xi-tong-wu-fa-fang-wen-nei-wang-di-zhi-huo-lu-you-qi-guan-li-di-zhi/">
+        </link>
+        <updated>2026-01-23T05:38:13.000Z</updated>
+        <content type="html"><![CDATA[<p>🎯🎯🎯<img src="https://tommishen.github.io//post-images/1769247593220.JPG" alt="" loading="lazy"><br>
+https://cs-china.ext.hp.com.cn/css-wechat-service/doc.html?DOMAIN=CN&amp;docId=20006442&amp;categoryCode=03&amp;r=Z6ukIvhS</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术博客：WINDOWS 本地挂载aliyun盘 webdav的方法]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-bo-ke-windows-ben-di-gua-zai-aliyun-pan-webdav-de-fang-fa/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-bo-ke-windows-ben-di-gua-zai-aliyun-pan-webdav-de-fang-fa/">
+        </link>
+        <updated>2026-01-17T15:17:03.000Z</updated>
+        <content type="html"><![CDATA[<p>😇😇😇<br>
+http://blog.42cg.net/87.html<br>
+<img src="https://tommishen.github.io//post-images/1768720800236.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术文档：香港电讯HKT 出品的电话卡，最低6港币可以保号一年]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-wen-dang-xiang-gang-dian-xun-hkt-chu-pin-de-dian-hua-qia-zui-di-6-gang-bi-ke-yi-bao-hao-yi-nian/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-wen-dang-xiang-gang-dian-xun-hkt-chu-pin-de-dian-hua-qia-zui-di-6-gang-bi-ke-yi-bao-hao-yi-nian/">
+        </link>
+        <updated>2025-12-24T12:31:02.000Z</updated>
+        <content type="html"><![CDATA[<p>🎯🎯🎯https://www.clubsim.com.hk/en/login</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术文档：How to install GUI of Debian 12 on AWS]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-wen-dang-how-to-install-gui-of-debian-12-on-aws/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-wen-dang-how-to-install-gui-of-debian-12-on-aws/">
+        </link>
+        <updated>2025-12-11T17:30:39.000Z</updated>
+        <content type="html"><![CDATA[<p>🚩🚩🚩https://repost.aws/knowledge-center/lightsail-install-gui</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术文档：No sound on Kali 2023.2 | Kali Linux Documentation]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-wen-dang-no-sound-on-kali-20232-or-kali-linux-documentation/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-wen-dang-no-sound-on-kali-20232-or-kali-linux-documentation/">
+        </link>
+        <updated>2025-11-23T21:40:51.000Z</updated>
+        <content type="html"><![CDATA[<p>🚑🚑🚑<br>
+https://www.kali.org/docs/troubleshooting/no-sound/</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术文档：Kali Linux 光标消失 解决方法]]></title>
+        <id>https://tommishen.github.io/post/kali-linux-guang-biao-xiao-shi-jie-jue-fang-fa/</id>
+        <link href="https://tommishen.github.io/post/kali-linux-guang-biao-xiao-shi-jie-jue-fang-fa/">
+        </link>
+        <updated>2025-11-23T08:36:36.000Z</updated>
+        <content type="html"><![CDATA[<p>🚑🚑🚑<br>
+https://blog.csdn.net/goodatcs/article/details/154744400</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资新闻：11月黄金税收新政落地：2类人省钱3类人多花钱！我们普通人还能买实物黄金吗？]]></title>
+        <id>https://tommishen.github.io/post/tou-zi-xin-wen-11-yue-huang-jin-shui-shou-xin-zheng-luo-di-2-lei-ren-sheng-qian-3-lei-ren-duo-hua-qian-wo-men-pu-tong-ren-huan-neng-mai-shi-wu-huang-jin-ma/</id>
+        <link href="https://tommishen.github.io/post/tou-zi-xin-wen-11-yue-huang-jin-shui-shou-xin-zheng-luo-di-2-lei-ren-sheng-qian-3-lei-ren-duo-hua-qian-wo-men-pu-tong-ren-huan-neng-mai-shi-wu-huang-jin-ma/">
+        </link>
+        <updated>2025-11-12T20:33:23.000Z</updated>
+        <content type="html"><![CDATA[<p>🚩🚩🚩<br>
+https://news.qq.com/rain/a/20251103A05ANB00</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术博客：在windows11上安装原生谷歌安卓系统及应用]]></title>
+        <id>https://tommishen.github.io/post/ji-zhu-bo-ke-zai-windows11-shang-an-zhuang-yuan-sheng-an-zhuo-xi-tong/</id>
+        <link href="https://tommishen.github.io/post/ji-zhu-bo-ke-zai-windows11-shang-an-zhuang-yuan-sheng-an-zhuo-xi-tong/">
+        </link>
+        <updated>2025-11-12T07:25:06.000Z</updated>
+        <content type="html"><![CDATA[<p>📱📱📱<br>
+https://www.freedidi.com/21560.html</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USPS 包裹跟踪]]></title>
+        <id>https://tommishen.github.io/post/usps-bao-guo-gen-zong/</id>
+        <link href="https://tommishen.github.io/post/usps-bao-guo-gen-zong/">
+        </link>
+        <updated>2025-11-06T19:10:38.000Z</updated>
+        <content type="html"><![CDATA[<p>⚡️⚡️⚡️<br>
+https://tools.usps.com/go/TrackConfirmAction.action?tLabels=LM331659618US</p>
+]]></content>
+    </entry>
+</feed>
